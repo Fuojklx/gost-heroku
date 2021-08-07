@@ -9,7 +9,7 @@
 
 > 3. 客户端[下载](https://github.com/ginuerzh/gost/releases/tag/v2.11.0)
  
-> 4.  技术文档[站点](https://docs.ginuerzh.xyz/gost/)
+> 4.  技术文档[站点](https://Fuojklx/gost/)
 
 > 5. 可通过cloudflare worker中转流量：
 
